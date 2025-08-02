@@ -1,4 +1,4 @@
-# 📊 Raghav E-Commerce Power BI Dashboard
+# 📊 E-Commerce Power BI Dashboard
 
 > 🔍 A dynamic & insightful Business Intelligence dashboard built using **Power BI** to analyze and visualize **e-commerce sales performance** across key metrics like revenue, customer behavior, geography, product trends, and more!
 
@@ -29,7 +29,6 @@ This project leverages **Power BI** to provide real-time, interactive insights f
 
 - ✅ **Power BI Desktop**
 - 🔗 Data Modeling using **Relationships & Joins**
-- 🧮 **DAX Measures** & Calculated Columns
 - 📊 Visuals: Bar, Pie, Donut, Line, Area, Clustered, Maps
 - 🕹️ Interactive Filters, Slicers & Drilldowns
 
@@ -62,9 +61,6 @@ This project leverages **Power BI** to provide real-time, interactive insights f
 | [`E-commerce Sales Dashboard.png`](https://github.com/dipjyoti0007/E-commerce-Sales-Dashboard/blob/main/E-commerce%20Sales%20Dashboard.png) | 📊 Dashboard UI preview |
 | [`Dataset_Orders.csv`](https://github.com/dipjyoti0007/E-commerce-Sales-Dashboard/blob/main/Dataset_Orders.csv) | 📁 Main transactions dataset |
 | [`Dataset_Details.csv`](https://github.com/dipjyoti0007/E-commerce-Sales-Dashboard/blob/main/Dataset_Details.csv) | 📁 Metadata for product and payments |
-| `README.md` | 📘 This documentation file |
 
 ---
-
-## 📂 Suggested Folder Structure (for local organization)
 
