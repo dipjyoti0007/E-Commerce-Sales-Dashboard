@@ -1,8 +1,8 @@
-# 📊 E-Commerce Power BI Dashboard
+# 📊 Raghav E-Commerce Power BI Dashboard
 
 > 🔍 A dynamic & insightful Business Intelligence dashboard built using **Power BI** to analyze and visualize **e-commerce sales performance** across key metrics like revenue, customer behavior, geography, product trends, and more!
 
-![Dashboard Preview](./Screenshot%202025-08-03%20005306.png)
+![Dashboard Preview](https://raw.githubusercontent.com/dipjyoti0007/E-commerce-Sales-Dashboard/main/E-commerce%20Sales%20Dashboard.png)
 
 ---
 
@@ -25,54 +25,46 @@ This project leverages **Power BI** to provide real-time, interactive insights f
 
 ---
 
-## 📚 What I Learned
+## 🧩 Tools & Techniques Used
 
-![Project Learnings](./Screenshot%202025-08-03%20005702.png)
-
-- 🔹 Created an **interactive dashboard** to track and analyze online sales
-- 🔹 Implemented **drill-downs, filters, and slicers** for better customization
-- 🔹 Built relationships, joined tables, and **used calculations** for dynamic views
-- 🔹 Explored various chart types and storytelling techniques in visual analytics
+- ✅ **Power BI Desktop**
+- 🔗 Data Modeling using **Relationships & Joins**
+- 🧮 **DAX Measures** & Calculated Columns
+- 📊 Visuals: Bar, Pie, Donut, Line, Area, Clustered, Maps
+- 🕹️ Interactive Filters, Slicers & Drilldowns
 
 ---
 
-## 📁 Repository Contents
+## 📚 What I Learned
 
-| File Name                            | Description                                 |
-|-------------------------------------|---------------------------------------------|
-| `E-commerce dashboard.pbix`         | 🎯 Main Power BI dashboard file             |
-| `Orders.csv`                        | 📄 Raw e-commerce order data (transactions) |
-| `Details.csv`                       | 📄 Detailed metadata (product info, etc.)   |
-| `Screenshot 2025-08-03 005306.png`  | 🖼️ Preview of the dashboard UI              |
-| `Screenshot 2025-08-03 005702.png`  | 📝 Summary of project learnings             |
-| `README.md`                         | 📘 This documentation file                  |
+- 🔹 Built an interactive dashboard from raw CSV datasets
+- 🔹 Used Power Query for data transformation
+- 🔹 Linked tables via relationships for coherent analytics
+- 🔹 Applied filters, slicers, DAX, and rich visuals for storytelling
 
 ---
 
 ## 📎 Datasets Used
 
-- 📥 [Orders.csv](./Orders.csv) – Contains transaction-level data including product, quantity, amount, customer name, region, and date.
-- 📥 [Details.csv](./Details.csv) – Contains supporting product-level data, including sub-category, category, and payment mode.
+- 📄 [`Dataset_Orders.csv`](https://github.com/dipjyoti0007/E-commerce-Sales-Dashboard/blob/main/Dataset_Orders.csv)  
+  ↪️ Contains order-level transactional data: customer name, state, product, quantity, amount, date.
 
-> 🧩 These files were loaded into Power BI, transformed using Power Query, and linked via relationships to build the dashboard.
-
----
-
-## 🧩 Tools & Techniques Used
-
-- ✅ **Power BI Desktop**
-- 🔗 Data Modelling using **Relationships & Joins**
-- 🧮 **DAX Measures** & Calculated Columns
-- 📊 Custom Visuals: Bar, Pie, Donut, Clustered Bar, Line, Area, Scatter, Maps
-- 🕹️ Filters, Slicers, Drilldowns for Interactivity
+- 📄 [`Dataset_Details.csv`](https://github.com/dipjyoti0007/E-commerce-Sales-Dashboard/blob/main/Dataset_Details.csv)  
+  ↪️ Supplementary metadata: product categories, sub-categories, and payment methods.
 
 ---
 
-## 💻 Requirements
+## 📁 Repository Contents
 
-To view or edit the `.pbix` file:
-
-> ✅ Install [**Power BI Desktop**](https://powerbi.microsoft.com/en-us/desktop/)
+| Path & File | Description |
+|-------------|-------------|
+| [`E-commerce dashboard.pbix`](https://github.com/dipjyoti0007/E-commerce-Sales-Dashboard/blob/main/E-commerce%20dashboard.pbix) | 💡 Power BI report file |
+| [`E-commerce Sales Dashboard.png`](https://github.com/dipjyoti0007/E-commerce-Sales-Dashboard/blob/main/E-commerce%20Sales%20Dashboard.png) | 📊 Dashboard UI preview |
+| [`Dataset_Orders.csv`](https://github.com/dipjyoti0007/E-commerce-Sales-Dashboard/blob/main/Dataset_Orders.csv) | 📁 Main transactions dataset |
+| [`Dataset_Details.csv`](https://github.com/dipjyoti0007/E-commerce-Sales-Dashboard/blob/main/Dataset_Details.csv) | 📁 Metadata for product and payments |
+| `README.md` | 📘 This documentation file |
 
 ---
+
+## 📂 Suggested Folder Structure (for local organization)
 
