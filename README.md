@@ -14,12 +14,12 @@ This project leverages **Power BI** to provide real-time, interactive insights f
 
 ## 🧠 Key Highlights
 
-- 📈 **KPI Cards** for Revenue (₹438K), Profit (₹37K), Quantity (5.6K), AOV (₹121.01K)
-- 🗺️ **Geo Insights**: State-wise sales heatmaps
-- 🛍️ **Customer Overview**: Top buyers & amount spent
-- 💳 **Payment Trends**: Mode-wise quantity analysis (UPI, COD, Credit Card, etc.)
-- 📦 **Product Analysis**: Category & Sub-category wise breakdown
-- 📅 **Time Series**: Profit vs. Month comparison with Qtr-wise slicers
+-  **KPI Cards** for Revenue (₹438K), Profit (₹37K), Quantity (5.6K), AOV (₹121.01K)
+-  **Geo Insights**: State-wise sales heatmaps
+-  **Customer Overview**: Top buyers & amount spent
+-  **Payment Trends**: Mode-wise quantity analysis (UPI, COD, Credit Card, etc.)
+-  **Product Analysis**: Category & Sub-category wise breakdown
+-  **Time Series**: Profit vs. Month comparison with Qtr-wise slicers
 
 > 🎯 Designed for **decision-makers** to get fast, accurate, and actionable insights!
 
@@ -27,19 +27,19 @@ This project leverages **Power BI** to provide real-time, interactive insights f
 
 ## 🧩 Tools & Techniques Used
 
-- ✅ **Power BI Desktop**
-- 🔗 Data Modeling using **Relationships & Joins**
-- 📊 Visuals: Bar, Pie, Donut, Line, Area, Clustered, Maps
-- 🕹️ Interactive Filters, Slicers & Drilldowns
+-  **Power BI Desktop**
+-  Data Modeling using **Relationships & Joins**
+-  Visuals: Bar, Pie, Donut, Line, Area, Clustered, Maps
+-  Interactive Filters, Slicers & Drilldowns
 
 ---
 
 ## 📚 What I Learned
 
-- 🔹 Built an interactive dashboard from raw CSV datasets
-- 🔹 Used Power Query for data transformation
-- 🔹 Linked tables via relationships for coherent analytics
-- 🔹 Applied filters, slicers, DAX, and rich visuals for storytelling
+🔹 Built an interactive dashboard from raw CSV datasets
+🔹 Used Power Query for data transformation
+🔹 Linked tables via relationships for coherent analytics
+🔹 Applied filters, slicers, DAX, and rich visuals for storytelling
 
 ---
 
