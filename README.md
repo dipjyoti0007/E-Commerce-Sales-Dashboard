@@ -37,8 +37,17 @@ This project leverages **Power BI** to provide real-time, interactive insights f
 ## 📚 What I Learned
 
 🔹 Built an interactive dashboard from raw CSV datasets
+
+
+
 🔹 Used Power Query for data transformation
+
+
+
 🔹 Linked tables via relationships for coherent analytics
+
+
+
 🔹 Applied filters, slicers, DAX, and rich visuals for storytelling
 
 ---
